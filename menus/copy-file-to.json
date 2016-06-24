@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle copy-file-to",
+        "command": "copy-file-to:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "copy-file-to",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "copy-file-to:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
