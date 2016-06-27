@@ -1,7 +1,7 @@
 {
   "name": "copy-file-to",
   "main": "./lib/copy-file-to",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Copy active file to another directories",
   "keywords": [],
   "activationCommands": {
