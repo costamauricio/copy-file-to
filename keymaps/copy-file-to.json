@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "copy-file-to:toggle"
+    "ctrl-alt-o": "copy-file-to:copy-file"
   }
 }

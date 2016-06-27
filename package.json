@@ -3,16 +3,14 @@
   "main": "./lib/copy-file-to",
   "version": "1.0.0",
   "description": "Copy active file to another directories",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": "copy-file-to:toggle"
+    "atom-workspace": "copy-file-to:copy-file"
   },
   "repository": "https://github.com/costamauricio/copy-file-to",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

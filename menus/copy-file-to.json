@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle copy-file-to",
-        "command": "copy-file-to:toggle"
+        "label": "Copy File To ...",
+        "command": "copy-file-to:copy-file"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "copy-file-to",
+          "label": "Copy File To",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "copy-file-to:toggle"
+              "label": "Copy",
+              "command": "copy-file-to:copy-file"
             }
           ]
         }
